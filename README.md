@@ -1,39 +1,38 @@
-# Meharab Latif
-##### Mobile: +880-1992647205
-### Email: meharablatif@hotmail.com
-#### Linkedin: [Meharab](https://www.linkedin.com/in/meharab124)
+# **Meharab Latif**
+###### _Mobile_: +880-1992647205
+###### _Email_: meharablatif@hotmail.com
+###### _Linkedin_: [Meharab](https://www.linkedin.com/in/meharab124)
+
+## TRAINING & EDUCATION
+* Engineering University School & College,BUET, Dhaka – 1000. Dhaka Board, SSC – 2013; GPA: 4.94/5.00
+* Engineering University School & College,BUET, Dhaka – 1000. Dhaka Board, HSC – 2015; GPA: 4.33/5.00
+* National University, (Dhaka City College), Dhanmondi, Dhaka – 1205. B.Sc in Computer Science and Engineering; CGPA(upto   7th Semester):3.45/4.00
+* iOS App development training from MCC Ltd. Under Bangladesh Government project of ICT department.
+* Android App development training from BITM-BASIS under SIPE project of Bangladesh Government.
+
+## TECHNICAL SKILLS
+* **Languages:** C/C++,JavaScript, PHP, HTML, CSS,Python.
+* **Frameworks:** Truffle,Ethereum,Tensorflow,Keras,Flask.
+* **Other:** GitHub, MS Office etc.
+
+## PARTICIPATIONS
+* ACM-ICPC Asia Dhaka Online Preliminary Contest 2017,2018,2019
+* Google Code Jam Preliminary-2018
+* DCC Intra Department Programming Contest 2019
+* Facebook AR Hackhathon-2019
+* Code Samurai 2019
+* Messanger Bot hachathon-2020
+* BlockChain Olympiad-2021
+
+## ACTIVITIES
+* Active Member of DCC Programming Society
+* Competitive Programming
+* Web Design and Development 
+
+## INTERESTS
+* Solving programming problems (Solved various problems in various online judges)
+* Learning new algorithms & Data Structures and implementing them
+* Learning new Frameworks
 
 
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Meharab/meharab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
