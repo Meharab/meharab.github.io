@@ -1,9 +1,8 @@
+![MEHARAB](/68255666_766157637173825_8233945931318296576_n (1).jpg)
 # **Meharab Latif**
 ###### _Mobile_: +880-1992647205
 ###### _Email_: meharablatif@hotmail.com
 ###### _Linkedin_: [Meharab](https://www.linkedin.com/in/meharab124)
-
-![MEHARAB](/68255666_766157637173825_8233945931318296576_n (1).jpg)
 
 ## TRAINING & EDUCATION
 * Engineering University School & College,BUET, Dhaka – 1000. Dhaka Board, SSC – 2013; GPA: 4.94/5.00
