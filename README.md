@@ -17,8 +17,8 @@
 * **Other:** GitHub, MS Office etc.
 
 ## Projects:
-* [iOS to-do-list App](https://meharab.github.io/iOS_To-Do-List_App/)
-* [Voting Dapp](https://meharab.github.io/Voting-Dapp/)
+* [iOS to-do-list App](https://github.com/Meharab/iOS_To-Do-List_App)
+* [Voting Dapp](https://github.com/Meharab/Voting-Dapp)
 
 ## PARTICIPATIONS
 * ACM-ICPC Asia Dhaka Online Preliminary Contest 2017,2018,2019
