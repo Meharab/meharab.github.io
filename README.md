@@ -17,7 +17,7 @@
 * **Other:** GitHub, MS Office etc.
 
 ## Projects:
-* [iOS to-do-list App](https://meharab.github.io/iOS-To-Do-List-app/)
+* [iOS to-do-list App](https://meharab.github.io/iOS_To-Do-List_App/)
 * [Voting Dapp](https://meharab.github.io/Voting-Dapp/)
 
 ## PARTICIPATIONS
