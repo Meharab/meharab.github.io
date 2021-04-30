@@ -6,6 +6,13 @@
 ###### _Linkedin_: [Meharab](https://www.linkedin.com/in/meharab124)
 
 
+## OBJECTIVE
+I am very passionate about computer and programming since my university life. I dream to be 
+an expert software engineer so that I can build professional and useful software that has 
+business value. I am looking for a opportunity to work in a reputed software company that
+can help me to achieve my goal.
+
+
 ## TECHNICAL SKILLS
 * **Languages:** Solidity, HTML, CSS, JavaScript, MySQL, PHP, C/C++.
 * **Frameworks:** Truffle, Ethereum.
@@ -13,13 +20,13 @@
 
 
 ## Projects:
-* [iOS to-do-list App](https://github.com/Meharab/iOS_To-Do-List_App)
+* [iOS to-do-list App](https://github.com/Meharab/iOS_To-Do-List_App):
 I used xcode9 framework to develop this application using objective-c programming 
 language. I also used recycle view and user can swip to delete easily. user can also tap 
 to mark and unmark the task. I also keep the interface very basic so that anyone can 
 interact with the app very easily.
 
-* [Decentralized Voting Dapp](https://github.com/Meharab/Voting-Dapp)
+* [Decentralized Voting Dapp](https://github.com/Meharab/Voting-Dapp):
 I used HTML CSS and Javascript for frontend and also used Boostrap and jQuery 
 framework and library to make the user interface more dynamic. 
 In the backend part I useed two servers. Apache web server is used to store login 
@@ -28,7 +35,8 @@ language to interact with interface.
 On the other hand the voting process carries on the Ethereum blockchain. To emulate 
 this i used Node.js as a server and used Javascript programming language and 
 Express.js framework to interact with the interface. I also used Solidity programming 
-language to write the code of Smart-Contact. I also use Matamax wallet and Web3.js library to interact with blockchain. And to simulate the blockchain I used Ganache local 
+language to write the code of Smart-Contact. I also use Matamax wallet and Web3.js 
+library to interact with blockchain. And to simulate the blockchain I used Ganache local 
 blockchain platform.
 
 
