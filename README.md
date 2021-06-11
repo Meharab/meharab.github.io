@@ -2,8 +2,8 @@
 # **Meharab Latif**
 ###### _Mobile_: [+880-1992647205](+880-1992647205)
 ###### _Email_: [meharablatif@hotmail.com](meharablatif@hotmail.com)
-###### _Github_: [github.com/Meharab](https://github.com/Meharab)
-###### _Linkedin_: [linkedin.com/in/meharab124](https://www.linkedin.com/in/meharab124)
+###### _Github_: [https://www.github.com/Meharab](https://github.com/Meharab)
+###### _Linkedin_: [https://www.linkedin.com/in/meharab124](https://www.linkedin.com/in/meharab124)
 
 
 ## OBJECTIVE
