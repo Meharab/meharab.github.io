@@ -11,9 +11,9 @@ I am very passionate about computer and programming since my university life. I 
 
 
 ## TECHNICAL SKILLS
-* **Languages:** Solidity, HTML, CSS, JavaScript, MySQL, PHP, C/C++.
-* **Frameworks:** Truffle, Ethereum.
-* **Other:** Git/GitHub, MS-PowerPoint/Word.
+* **Programming Languages :** Solidity, HTML5, CSS3, JavaScript, MySQL, C/C++, PHP
+* **Frameworks & Libraries :** Truffle, Ethereum, Web3.js, Bootstrap4, SCSS/LESS, jQuery
+* **Other Tools :** Git/GitHub, MS-PowerPoint/Word, Trello, NPM, Grunt/Gulp, JSON
 
 
 ## Projects:
@@ -23,6 +23,9 @@ to mark and unmark the task. I also keep the interface very basic so that anyone
 
 * [Decentralized Voting Dapp](https://github.com/Meharab/Voting-Dapp):
 I used HTML CSS and Javascript for frontend and also used Boostrap and jQuery framework and library to make the user interface more dynamic. In the backend part I useed two servers. Apache web server is used to store login information and other information of voters. in this case i used php programming language to interact with interface.On the other hand the voting process carries on the Ethereum blockchain. To emulate this i used Node.js as a server and used Javascript programming language and Express.js framework to interact with the interface. I also used Solidity programming language to write the code of Smart-Contact. I also use Matamax wallet and Web3.js library to interact with blockchain. And to simulate the blockchain I used Ganache local blockchain platform.
+
+* [Responsive Restaurant Webapp using Bootstrap-4](https://github.com/Meharab/Restaurant-Webapp-using-Bootstrap-V4):
+I used the Bootstrap version 4 along with HTML 5. For styling I used CSS 3 and also CSS framework SCSS and Less. I used vanilla javascript and jQuery to show some of the bootstrap techniques. to make my work easier I automated my development process using NPM and I also used task-runner Grunt and Gulp plugins. It is a responsive site which is developed under mobile-first approach.
 
 
 ## TRAINING & EDUCATION
