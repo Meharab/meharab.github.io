@@ -12,7 +12,7 @@ I am very passionate about computer and programming since my university life. I 
 
 ## TECHNICAL SKILLS
 * **Programming Languages :** Solidity, HTML5, CSS3, JavaScript, MySQL, C/C++, PHP
-* **Frameworks & Libraries :** Truffle, Ethereum, Web3.js, Bootstrap4, SCSS/LESS, jQuery
+* **Frameworks & Libraries :** Truffle, Ethereum, Web3.js, Bootstrap4, SASS/LESS, jQuery
 * **Other Tools :** Git/GitHub, MS-PowerPoint/Word, Trello, NPM, Grunt/Gulp, JSON
 
 
