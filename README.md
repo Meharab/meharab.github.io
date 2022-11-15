@@ -1,4 +1,4 @@
-# *PROFESSIONAL PROJECTS*
+# **PROFESSIONAL PROJECTS**
 
 # Aliens On the Ave (Generative PFP NFT DApp) — [view](https://www.aliensontheave.com/)
 This Blockchain DApp is an NFT( Non Fungible Token ) based product
@@ -35,9 +35,59 @@ Ethereum blockchain, Web3.js, Solidity, Metamax, Remix, Ganache
 
 
 
-# *PERSONAL PROJECTS*
+# **PERSONAL PROJECTS**
 
-# Decentralized Voting DApp — [view source code](https://github.com/Meharab/Voting-Dapp)
+# Lottery Game (Random Winner Gets All) DApp - [view](https://lottery-game-graph-chainlink-vrf.vercel.app/)
+This dapp is a representation of automatic execution of randomness without any central authority.
+And it is super secure as there is no way to manipulate the results. Also in this app Graph
+protocol is used to get all the events.
+
+### Tech Stack: 
+Solidity, OpenZeppelin, Hardhat, Next.js, Ether.js, JS, React.js, GraphQL, ChainLink VFR, Graph, Polygon etc.
+
+### Features:
+* Users can host a game.
+* Users can set an entry fee.
+* Users can set maximum participants for a game.
+* The winner will be chosen in a completely random way.
+* The winner will get all the ethers that were staked.
+
+
+# Decentralized Exchange (DEX) DApp - [view](https://dex-meharab.vercel.app/)
+This dapp is a representation of a decentralized finance (Defi) system on blockchain. There is no
+central authorization in this market. So, everything that happens here is in pre written codes on
+smart contracts which cannot be altered.
+
+### Tech Stack: 
+Solidity, OpenZeppelin, Hardhat, Next.js, Ether.js, JS, React.js etc.
+
+### Features:
+* Users can swap ethers with crypto dev tokens.
+* Users can add liquidity by contributing ethers and crypto dev tokens.
+* Users can get liquidity pool tokens after contribution.
+* Users can make profit by exchanging liquidity pool tokens with ethers and crypto dev tokens.
+* Users can also be part of loss by exchanging liquidity pool tokens, if the market price drops.
+
+
+# Decentralized Autonomous Organization (DAO) DApp - [view](https://dao-meharab.vercel.app/)
+This dapp is built on the Ethereum network. In this dapp a group of people will join to execute a
+proposal in a decentralized manner. This dapp represents the democratic way to solve problems
+without any central authorization.
+
+### Tech Stack: 
+Solidity, OpenZeppelin, Hardhat, Next.js, Ether.js, JS, React.js etc.
+
+### Features:
+* Users have to be a Crypto Devs NFT holder to participate in DAO.
+* Users can create a proposal by submitting their NFT.
+* Users can vote for a certain period of time.
+* DAO has some ethers in the treasury.
+* Users can vote to agree upon what to do with the treasury.
+* Winner of the proposal will be automatically executed.
+* Users can view last executed proposals.
+
+
+# Decentralized Voting DApp - [view source code](https://github.com/Meharab/Voting-Dapp)
 This is a decentralized voting DApp that can be used by any organization,
 government, club etc. which provides top notch security and privacy and
 also saves a lot of time.
