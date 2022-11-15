@@ -1,23 +1,11 @@
 ![MEHARAB](/68255666_766157637173825_8233945931318296576_n (1).jpg)
 # **Meharab Latif**
-###### _Mobile_: [+880-1992647205](+880-1992647205)
 ###### _Email_: [meharablatif@hotmail.com](meharablatif@hotmail.com)
-###### _Github_: [https://www.github.com/Meharab](https://github.com/Meharab)
-###### _Linkedin_: [https://www.linkedin.com/in/meharab124](https://www.linkedin.com/in/meharab124)
-
-
-
-## OBJECTIVE
-I am very passionate about computer and programming since my university life. I dream to be an expert software engineer so that I can build professional and useful software that has business value. I am looking for an opportunity to work with the best team in a reputed software company that can help me to achieve my goal.
-
-
 
 ## TECHNICAL SKILLS
 * **Programming Languages :** Solidity, Cadence, HTML5, CSS3, JavaScript, C/C++
 * **Frameworks & Libraries :** Flow, FCL, Truffle, Ethereum, Bootstrap4, jQuery, Web3.js
 * **Other Tools :** Git/GitHub, MS-PowerPoint/Word, Trello, JSON, Figma
-
-
 
 ## Projects:
 * [iOS to-do-list App](https://github.com/Meharab/iOS_To-Do-List_App):
@@ -30,52 +18,3 @@ I used HTML CSS and Javascript for frontend and also used Boostrap and jQuery fr
 * [Responsive Restaurant Webapp using Bootstrap-4](https://github.com/Meharab/Restaurant-Webapp-using-Bootstrap-V4):
 I used the Bootstrap version 4 along with HTML 5. For styling I used CSS 3 and also CSS framework SCSS and Less. I used vanilla javascript and jQuery to show some of the bootstrap techniques. to make my work easier I automated my development process using NPM and I also used task-runner Grunt and Gulp plugins. It is a responsive site which is developed under mobile-first approach.
 
-
-
-## EDUCATION
-* **Engineering University School & College,BUET, Dhaka – 1000.**
-    Dhaka Board, SSC – 2013; GPA: 4.94/5.00
-* **Engineering University School & College,BUET, Dhaka – 1000.**
-    Dhaka Board, HSC – 2015; GPA: 4.33/5.00
-* **National University, (Dhaka City College), Dhanmondi, Dhaka – 1205.** 
-    B.Sc in Computer Science and Engineering; CGPA:3.5/4.00
-    
-    
-    
-## TRAINING
-* **iOS App development training** 
-    from MCC Ltd. Under the Bangladesh Government project of ICT department.
-* **Android App development training** 
-    from BITM-BASIS under SIPE project of Bangladesh Government.
-
-
-
-## ACTIVITIES
-* Active Member of DCC Programming Society (Arranging contest, workshops, seminars etc.)
-* Competitive Programming
-* Web Design and Development
-
-
-
-## PARTICIPATIONS
-* ACM-ICPC Asia Dhaka Online Preliminary Contest 2017,2018,2019
-* Google Code Jam Preliminary-2018, 2019
-* DCC Intra Department Programming Contest 2019
-* Facebook AR Hackhathon-2019
-* Code Samurai 2019, 2020
-* Messanger Bot hachathon-2020
-* BlockChain Olympiad- 2020, 2021
-
-
-
-## INTERESTS
-* Solving programming problems (Solved various problems in various online judges)
-* Learning new algorithms & Data Structures and implementing them
-* Learning new Frameworks and implementing them
-
-
-
-## PERSONAL SKILLS 
-* Have analysis and synthesis skills
-* Quick learning skills (technologies, tools and techniques) 
-* Communication skills in English, both oral & written
