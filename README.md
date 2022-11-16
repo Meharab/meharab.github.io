@@ -87,6 +87,22 @@ Solidity, OpenZeppelin, Hardhat, Next.js, Ether.js, JS, React.js etc.
 * Users can view last executed proposals.
 
 
+# Multichain NFT Marketplace DApp - [view](https://multichain-marketplace-i8vw-meharab.vercel.app/)
+This dapp is built on the Ethereum and Polygon network. In this dapp NFTs can buy/sell/created. This dapp represents the defi way to do finance
+without any central authorization.
+
+### Tech Stack: 
+Solidity, OpenZeppelin, Hardhat, Ether.js, JS, React.js, Alchemy etc.
+
+### Features:
+* Users can create an NFT.
+* Users can list tereir creted NFT to the marketplace.
+* Users can buy NFTs from marketplace.
+* Users can see their bought NFTs.
+* Users can see their's listed NFTs.
+
+
+
 # Decentralized Voting DApp - [view source code](https://github.com/Meharab/Voting-Dapp)
 This is a decentralized voting DApp that can be used by any organization,
 government, club etc. which provides top notch security and privacy and
