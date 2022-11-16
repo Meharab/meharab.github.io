@@ -17,6 +17,11 @@ Pinata, metamask.
 * Deploying on Testnet.
 
 
+
+
+
+
+
 # Forge Finance (NFT Marketplace DApp) — [view](http://forgefinance.io/)
 This Blockchain DApp is a NFT( Non Fungible Token ) based Marketplace.
 So here a user can create, mint, buy, sell and transfer the NFT. It has two
@@ -32,6 +37,10 @@ Ethereum blockchain, Web3.js, Solidity, Metamax, Remix, Ganache
 * Developing a channel using Web3 base framework/Library to interact with frontend and smart contract.
 * Integrating Wallet API.
 * Documenting process.
+
+
+
+
 
 
 
@@ -53,6 +62,11 @@ Solidity, OpenZeppelin, Hardhat, Next.js, Ether.js, JS, React.js, GraphQL, Chain
 * The winner will get all the ethers that were staked.
 
 
+
+
+
+
+
 # Decentralized Exchange (DEX) DApp - [view](https://dex-meharab.vercel.app/)
 This dapp is a representation of a decentralized finance (Defi) system on blockchain. There is no
 central authorization in this market. So, everything that happens here is in pre written codes on
@@ -67,6 +81,11 @@ Solidity, OpenZeppelin, Hardhat, Next.js, Ether.js, JS, React.js etc.
 * Users can get liquidity pool tokens after contribution.
 * Users can make profit by exchanging liquidity pool tokens with ethers and crypto dev tokens.
 * Users can also be part of loss by exchanging liquidity pool tokens, if the market price drops.
+
+
+
+
+
 
 
 # Decentralized Autonomous Organization (DAO) DApp - [view](https://dao-meharab.vercel.app/)
@@ -87,6 +106,11 @@ Solidity, OpenZeppelin, Hardhat, Next.js, Ether.js, JS, React.js etc.
 * Users can view last executed proposals.
 
 
+
+
+
+
+
 # Multichain NFT Marketplace DApp - [view](https://multichain-marketplace-i8vw-meharab.vercel.app/)
 This dapp is built on the Ethereum and Polygon network. In this dapp NFTs can buy/sell/created. This dapp represents the defi way to do finance
 without any central authorization.
@@ -100,6 +124,28 @@ Solidity, OpenZeppelin, Hardhat, Ether.js, JS, React.js, Alchemy etc.
 * Users can buy NFTs from marketplace.
 * Users can see their bought NFTs.
 * Users can see their's listed NFTs.
+
+
+
+
+
+
+
+# Flat Earth DAO DApp - [view](https://flat-earth-dao.vercel.app/)
+This dapp is built on the Ethereum network. In this dapp user can First mint ERC-1155 NFT card 💳 to access to the DAO, then you will be airdroped some governance token sothat you can 🥫 vote on existing proposal.
+
+### Tech Stack: 
+Solidity, Thirdweb SDK, Ether.js, JS, React.js, Alchemy etc.
+
+### Features:
+* Users can mint an NFT as membership.
+* Users can vote on proposal.
+* Users will bw airdroped governance token for the voting power.
+* The proposals will be executed automatically after the successful vote.
+
+
+
+
 
 
 
