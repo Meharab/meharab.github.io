@@ -149,6 +149,25 @@ Solidity, Thirdweb SDK, Ether.js, JS, React.js, Alchemy etc.
 
 
 
+# NFT Marketplace DApp - [view](https://marketplace-celo.vercel.app/)
+This dapp is built on the Celo network. In this dapp NFTs can buy/sell/created. This dapp represents the defi way to do finance
+without any central authorization.
+
+### Tech Stack: 
+Solidity, OpenZeppelin, Hardhat, Ether.js, JS, React.js, Alchemy etc.
+
+### Features:
+* Users can create an NFT.
+* Users can list tereir creted NFT to the marketplace.
+* Users can buy NFTs from marketplace.
+* Users can see their's listed NFTs.
+
+
+
+
+
+
+
 # Decentralized Voting DApp - [view source code](https://github.com/Meharab/Voting-Dapp)
 This is a decentralized voting DApp that can be used by any organization,
 government, club etc. which provides top notch security and privacy and
