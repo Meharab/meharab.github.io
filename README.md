@@ -67,6 +67,27 @@ Solidity, OpenZeppelin, Hardhat, Next.js, Ether.js, JS, React.js, GraphQL, Chain
 
 
 
+# Metaverse Slayer Game (GameFi) DApp - [view](https://metaverse-slayer-game.vercel.app/)
+This dapp is a representation of a gaming finance (Defi) system on blockchain. In this game the NFT character's HP level change according to the useage of the players. So, the value of the characters depends on how the HP level the character have after playing.
+
+### Tech Stack: 
+Solidity, OpenZeppelin, Hardhat, Next.js, Ether.js, JS, React.js, Quicknode, metamask etc.
+
+### Features:
+* Users have to mint a ERC721 character to play the game.
+* Users can attack the boss.
+* Users can be missed or hit.
+* Users hit will cost HP of the boss.
+* The boos also hit back which will cost user's HP.
+* Users can see Their NFT character on free marketplace.
+* Users can transfer/buy/sell their character.
+
+
+
+
+
+
+
 # Decentralized Exchange (DEX) DApp - [view](https://dex-meharab.vercel.app/)
 This dapp is a representation of a decentralized finance (Defi) system on blockchain. There is no
 central authorization in this market. So, everything that happens here is in pre written codes on
