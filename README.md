@@ -149,6 +149,23 @@ Solidity, Thirdweb SDK, Ether.js, JS, React.js, Alchemy etc.
 
 
 
+# Sovereign User Owned Decentralized Profiles DApp - [view](https://sovereign-uod-profile-ceramic.vercel.app/)
+This dapp is built on the Ceramic network. This dapp is simple implementation of fetching profile data from a network. Ceramic network is used for storing users data on chain so that user can control their data in order to interact with external DApp. This chain is interoperable with other chain. In this project I used Self.ID SDK to implement the solution.
+
+### Tech Stack: 
+Self.ID SDK, Ether.js, JS, React.js, Next.js, HTML, CSS etc.
+
+### Features:
+* Users can see their name if they connect their wallet.
+* Users can update their profile name.
+* Users can also their 3ID.
+
+
+
+
+
+
+
 # NFT Marketplace DApp - [view](https://marketplace-celo.vercel.app/)
 This dapp is built on the Celo network. In this dapp NFTs can buy/sell/created. This dapp represents the defi way to do finance
 without any central authorization.
