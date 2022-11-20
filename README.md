@@ -179,6 +179,23 @@ Solidity, Thirdweb SDK, Ether.js, JS, React.js, Alchemy etc.
 
 
 
+# Initial Coin Offering (ICO) DApp - [view](https://ico-interface-emag.vercel.app/)
+This dapp is built on the Ethereum network. In this dapp user can First mint ERC-20 token for 0.001 ether. But if the user have Crypto Dev NFT (ERC721) then they can clain 10 token for each for free.
+
+### Tech Stack: 
+Solidity, OpenZeppelin, Hardhat, Ether.js, JS, React.js, Quicknode etc.
+
+### Features:
+* Users can mint tokens by paying 0.001 ether for each .
+* Users can sell/trade/swap his token in any Defi platform that supports ERC20.
+* Users who holds Crypto Dev NFT, will get 10 tokens for free.
+
+
+
+
+
+
+
 # Sovereign User Owned Decentralized Profiles DApp - [view](https://sovereign-uod-profile-ceramic.vercel.app/)
 This dapp is built on the Ceramic network. This dapp is simple implementation of fetching profile data from a network. Ceramic network is used for storing users data on chain so that user can control their data in order to interact with external DApp. This chain is interoperable with other chain. In this project I used Self.ID SDK to implement the solution.
 
