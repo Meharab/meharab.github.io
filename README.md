@@ -288,7 +288,7 @@ Solidity, OpenZeppelin, Hardhat, Ether.js, JS, React.js, Quicknode etc.
 
 
 # Wave Portal DApp - [view](https://wave-portal-dapp-meharab.vercel.app/)
-This dapp is built on the Ethereum network. This Dapp is simple representation of a dapp where a user can do transaction by sending a wave at me and reading data fron on-chain, seeing the time of the wave live.
+This dapp is built on the Ethereum network. This Dapp is simple representation of a dapp where a user can do transaction by sending a wave at me and reading data from on-chain, seeing the time of the wave live.
 
 ### Tech Stack: 
 Solidity, metamask, Hardhat, Ether.js, JS, React.js, Infura etc.
@@ -296,6 +296,24 @@ Solidity, metamask, Hardhat, Ether.js, JS, React.js, Infura etc.
 ### Features:
 * Users can wave at me.
 * A random user will get 0.0001 ether from smart-contract.
+
+
+
+
+
+
+
+# PFP NFT Collection Minting DApp - [view](https://meharab.github.io/front-coll/)
+This dapp is built on the Ethereum network. In this dapp user can mint unique PFP NFT for 0.01 ether. This Dapp is absolutely decentralized because the metadata is also stored in decentralized storage like IPFS using Pinata api. There are only 100 unique ERC721 nft available.
+
+### Tech Stack: 
+Solidity, OpenZeppelin, Hardhat, Ether.js, JS, IPFS, Pinata, Alchemy, Next.js etc.
+
+### Features:
+* Users can mint an NFT by paying 0.01 ether for each.
+* Users can see their's minted NFTs on any open marketplace.
+* Users can sell/but/transfer his NFT in any open marketplace platform that supports ERC721.
+* There are 10 reserve NFT only for deployer.
 
 
 
