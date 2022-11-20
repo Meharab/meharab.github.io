@@ -287,6 +287,22 @@ Solidity, OpenZeppelin, Hardhat, Ether.js, JS, React.js, Quicknode etc.
 
 
 
+# Wave Portal DApp - [view](https://wave-portal-dapp-meharab.vercel.app/)
+This dapp is built on the Ethereum network. This Dapp is simple representation of a dapp where a user can do transaction by sending a wave at me and reading data fron on-chain, seeing the time of the wave live.
+
+### Tech Stack: 
+Solidity, metamask, Hardhat, Ether.js, JS, React.js, Infura etc.
+
+### Features:
+* Users can wave at me.
+* A random user will get 0.0001 ether from smart-contract.
+
+
+
+
+
+
+
 # Decentralized Voting DApp - [view source code](https://github.com/Meharab/Voting-Dapp)
 This is a decentralized voting DApp that can be used by any organization,
 government, club etc. which provides top notch security and privacy and
