@@ -179,8 +179,25 @@ Solidity, Thirdweb SDK, Ether.js, JS, React.js, Alchemy etc.
 
 
 
+# Crypto Dev NFT Collection Minting DApp - [view](https://crypto-devs-collections-interface-kfdn.vercel.app/)
+This dapp is built on the Ethereum network. In this dapp user can mint unique Crypto Dev NFT for 0.01 ether during public sale. But if the user is whitelisted then that user can mint before the public sale. because there are only 20 unique ERC721 nft available. The duration of pre sale is 5 minutes before public sale strats.
+
+### Tech Stack: 
+Solidity, OpenZeppelin, Hardhat, Ether.js, JS, React.js, Quicknode, Next.js etc.
+
+### Features:
+* Users can mint an NFT by paying 0.01 ether for each in public sale.
+* Users can sell/but/transfer his NFT in any open marketplace platform that supports ERC721.
+* Users who are in white list, they can mint 1 NFT before public sale.
+
+
+
+
+
+
+
 # Initial Coin Offering (ICO) DApp - [view](https://ico-interface-emag.vercel.app/)
-This dapp is built on the Ethereum network. In this dapp user can First mint ERC-20 token for 0.001 ether. But if the user have Crypto Dev NFT (ERC721) then they can clain 10 token for each for free.
+This dapp is built on the Ethereum network. In this dapp user can mint ERC-20 token for 0.001 ether. But if the user have Crypto Dev NFT (ERC721) then they can clain 10 token for each for free.
 
 ### Tech Stack: 
 Solidity, OpenZeppelin, Hardhat, Ether.js, JS, React.js, Quicknode etc.
