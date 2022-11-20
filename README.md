@@ -213,6 +213,21 @@ Solidity, OpenZeppelin, Hardhat, Ether.js, JS, React.js, Quicknode etc.
 
 
 
+# On-Chain Whitelisting (For Crypto Dev) DApp - [view](https://whitelist-dapp-meharab.vercel.app/)
+This dapp is built on the Ethereum network. This Dapp is simple representation of real world on chain allow listing where loyal users can have advanced privilege over regular users.
+
+### Tech Stack: 
+Solidity, OpenZeppelin, Hardhat, Ether.js, JS, Next.js, Quicknode etc.
+
+### Features:
+* Users can get their addresses in allowlist, so that they can mint 1 NFT before public sale.
+
+
+
+
+
+
+
 # Sovereign User Owned Decentralized Profiles DApp - [view](https://sovereign-uod-profile-ceramic.vercel.app/)
 This dapp is built on the Ceramic network. This dapp is simple implementation of fetching profile data from a network. Ceramic network is used for storing users data on chain so that user can control their data in order to interact with external DApp. This chain is interoperable with other chain. In this project I used Self.ID SDK to implement the solution.
 
