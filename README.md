@@ -232,6 +232,21 @@ Solidity, OpenZeppelin, Hardhat, Ether.js, JS, React.js, Alchemy etc.
 
 
 
+# Ethereum Name Service (ENS) DApp - [view](https://ens-meharab.vercel.app/)
+This dapp is built on the Ethereum network. This Dapp is simple representation of fetching data from ENS contract to show in our front-end.
+
+### Tech Stack: 
+Solidity, OpenZeppelin, Hardhat, Ether.js, JS, React.js, Quicknode etc.
+
+### Features:
+* Users will greeted with their ENS registered name if they have otherwise EOA address will be shown.
+
+
+
+
+
+
+
 # Decentralized Voting DApp - [view source code](https://github.com/Meharab/Voting-Dapp)
 This is a decentralized voting DApp that can be used by any organization,
 government, club etc. which provides top notch security and privacy and
