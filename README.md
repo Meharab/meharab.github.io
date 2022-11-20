@@ -44,15 +44,6 @@ Ethereum blockchain, Web3.js, Solidity, Metamax, Remix, Ganache
 
 
 
-
-</br>
-
-
-
-
-
-
-
 # **PERSONAL PROJECTS**
 
 # Lottery Game (Random Winner Gets All) DApp - [view](https://lottery-game-graph-chainlink-vrf.vercel.app/)
@@ -162,7 +153,7 @@ Solidity, OpenZeppelin, Hardhat, Ether.js, JS, React.js, Alchemy etc.
 
 
 # Flat Earth DAO DApp - [view](https://flat-earth-dao.vercel.app/)
-This dapp is built on the Ethereum network. In this dapp user can First mint ERC-1155 NFT card 💳 to access to the DAO, then you will be airdroped some governance token sothat you can 🥫 vote on existing proposal.
+This dapp is built on the Ethereum network. In this dapp user can First mint ERC-1155 NFT card to access to the DAO, then you will be airdroped some governance token sothat you can vote on existing proposal.
 
 ### Tech Stack: 
 Solidity, Thirdweb SDK, Ether.js, JS, React.js, Alchemy etc.
@@ -221,6 +212,23 @@ Solidity, OpenZeppelin, Hardhat, Ether.js, JS, Next.js, Quicknode etc.
 
 ### Features:
 * Users can get their addresses in allowlist, so that they can mint 1 NFT before public sale.
+
+
+
+
+
+
+
+# LW3Punks NFT Collection Minting DApp - [view](https://polygon-collection-ipfs.vercel.app/)
+This dapp is built on the Polygon network. In this dapp user can mint unique LW3Punks NFT for 0.01 ether. This Dapp is absolutely decentralized because the metadata is also stored in decentralized storage like IPFS using Pinata api.
+
+### Tech Stack: 
+Solidity, OpenZeppelin, Hardhat, Ether.js, JS, IPFS, Pinata, Alchemy, Next.js etc.
+
+### Features:
+* Users can mint an NFT by paying 0.01 ether for each.
+* Users can see their's minted NFTs on any open marketplace.
+* Users can sell/but/transfer his NFT in any open marketplace platform that supports ERC721.
 
 
 
