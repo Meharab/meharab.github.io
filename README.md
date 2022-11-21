@@ -345,12 +345,30 @@ HTML5, CSS3, javascript, jQuery, XAMPP, PHP, Ethereum blockchain, Web3.js, Solid
 This is a responsive web app for a restaurant. It has been developed using a mobile-first approach. This app will help a restaurant owner to expend his business online.
 
 ### Tech Stack: 
-Bootstrap4, HTML5, CSS 3, javascript, jQuery, SCSS/LESS, Grunt/Gulp, NPM.
+Bootstrap4, HTML5, CSS3, javascript, jQuery, SCSS/LESS, Grunt/Gulp, NPM.
 
 ### Features:
 * Users can book a table.
 * Users can see today’s menus and chefs.
 * Users can see additional history of the restaurant and statistics.
+* Users can contact and give feedback.
+
+
+
+
+
+
+
+# Franklin's Fine Dining Web App - [view source code](https://github.com/Meharab/Cafe-WebApp-using-PHP)
+This is a web app for a family dining. It has been developed using php. This app will help a restaurant owner to expend his business online.
+
+### Tech Stack: 
+php7, HTML5, CSS3, XAMpp.
+
+### Features:
+* Users can order dish.
+* Users can see today’s menus and beverages.
+* Users can see open and closing times.
 * Users can contact and give feedback.
 
 
