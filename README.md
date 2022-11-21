@@ -419,6 +419,25 @@ These are the few projects on deep learning.
 
 # **JOB ENTRY ASSIGNMENTS**
 
+# Hospitality Incubator Web App — [view](https://meharab.github.io/incubator/hospitality-incubator/index.html)
+This is a simple web app of a e-commerce. This app also have modern and rich looks of an e-commerce website where user will feel very easy to navigate hospitality suff e.g. cup set, dinning set etc.
+
+### Tech Stack:
+HTML 5, CSS 3, Javascript, Bootstrap V4, Git, Netlify.
+
+### Pages:
+* [Home](https://meharab.github.io/incubator/hospitality-incubator/index.html)
+* [Category](https://meharab.github.io/incubator/hospitality-incubator/category.html)
+* [Delails](https://meharab.github.io/incubator/hospitality-incubator/details.html)
+* [Checkout](https://meharab.github.io/incubator/hospitality-incubator/checkout.html)
+* [Blog](https://meharab.github.io/incubator/hospitality-incubator/blog.html)
+
+
+
+
+
+
+
 # Dashboard Web App — [view](https://geeks-technology.netlify.app/)
 This is a simple web app of a company's landing page. This app also have dashboard where admin can do lots of stuff e.g. add customers, view customers, do analysis etc.
 
