@@ -410,3 +410,23 @@ These are the few projects on deep learning.
 6. Data Visualization of a dataset using Plotly Express.
 7. RBM applying to predict movie reviews.
 8. RNN using LSTM model to Predict stock price.
+
+
+
+
+
+
+
+# **JOB ENTRY ASSIGNMENTS**
+
+# Dashboard Web App — [view](https://geeks-technology.netlify.app/)
+This is a simple web app of a company's landing page. This app also have dashboard where admin can do lots of stuff e.g. add customers, view customers, do analysis etc.
+
+### Tech Stack:
+HTML 5, CSS 3, Javascript, Bootstrap V4, Git, Netlify.
+
+### Features:
+* This app have login/sign up base authentication.
+* This app have dashboard for admin.
+* On dashboard admin can see the list of users in a tabular formate.
+* Admin can also add a customer by filling out the form.
