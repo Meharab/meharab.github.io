@@ -359,8 +359,8 @@ Bootstrap4, HTML5, CSS 3, javascript, jQuery, SCSS/LESS, Grunt/Gulp, NPM.
 
 
 
-# To-Do-List iOS Mobile App - [view source code](https://github.com/Meharab/iOS_To-Do-List_App_using_Objective-C4)
-This is a mobile app for ios users. It has been developed using MVC design pattern. This mobile app will help user to have more productive daily life.
+# To-Do-List iOS Mobile App - [view source code](https://github.com/Meharab/iOS_To-Do-List_App_using_Objective-C)
+To-Do List is an iOS app that is designed to manage our daily base tasks. This is a mobile app for iOS users. It has been developed using MVC design pattern. This mobile app will help user to have more productive daily life.
 
 ### Tech Stack: 
  Objective-C, XCode 9, Simulator.
@@ -368,5 +368,27 @@ This is a mobile app for ios users. It has been developed using MVC design patte
 ### Features:
 * Users can store information by clicking add.
 * Users can check-mark the task if the task is completed.
-* Users can delete by swiping the particular row right to left.
+* Users can delete by swiping the particular row right to left 👈.
 * Users can edit by swiping the particular row left to right 👉.
+
+
+
+
+
+
+
+# Neural Network Projects - [view source code](https://github.com/Meharab/Deep-Neural-Network-using-Tensorflow)
+These are the few projects on deep learning.
+
+### Tech Stack: 
+ Tensorflow, Jupyter Notebook, Anaconda, numpy, pandas, scikit learn, coLab, matplotlib, Keras etc.
+
+### Details:
+1. Predicting potential bank's customer using ANN.
+2. AUTOENCODER applying on Movie reviews dataset.
+3. CNN applying to detect between cats and dogs in an image.
+4. Classification Template of logistic regression using scikit learn.
+5. Data Preprocessing Template for a datset.
+6. Data Visualization of a dataset using Plotly Express.
+7. RBM applying to predict movie reviews.
+8. RNN using LSTM model to Predict stock price.
