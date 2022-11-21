@@ -419,6 +419,22 @@ These are the few projects on deep learning.
 
 # **JOB ENTRY ASSIGNMENTS**
 
+# NFT Minting DApp — [view](https://minting-dapp-meharab.vercel.app/)
+This dapp is built on the Ethereum network. In this dapp user can mint 1 ERC-1155 NFT per transaction. This Dapp is absolutely decentralized because the metadata is also stored in decentralized storage like IPFS using Pinata api.
+
+### Tech Stack: 
+Solidity, OpenZeppelin, Hardhat, Ether.js, JS, IPFS, Alchemy, React.js etc.
+
+### Features:
+* Users can mint an NFT.
+* Users can see their's minted NFTs on any open marketplace.
+* Users can sell/but/transfer his NFT in any open marketplace platform that supports ERC721.
+
+
+
+
+
+
 # Hospitality Incubator Web App — [view](https://meharab.github.io/incubator/hospitality-incubator/index.html)
 This is a simple web app of a e-commerce. This app also have modern and rich looks of an e-commerce website where user will feel very easy to navigate hospitality suff e.g. cup set, dinning set etc.
 
