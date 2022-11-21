@@ -335,3 +335,21 @@ Web3.js, Solidity, Metamax, Remix, Ganache, Mocha.js, chai.js
 * Users can see live results.
 * No admin required, fully automated.
 * Top notch security and privacy.
+
+
+
+
+
+
+
+# ConFusion Restaurant Responsive Web App - [view source code](https://github.com/Meharab/Restaurant-WebApp-using-Bootstrap-V4)
+This is a responsive web app for a restaurant. It has been developed using a mobile-first approach. This app will help a restaurant owner to expend his business online.
+
+### Tech Stack: 
+Bootstrap4, HTML5, CSS 3, javascript, jQuery, SCSS/LESS, Grunt/Gulp, NPM.
+
+### Features:
+* Users can book a table.
+* Users can see today’s menus and chefs.
+* Users can see additional history of the restaurant and statistics.
+* Users can contact and give feedback.
