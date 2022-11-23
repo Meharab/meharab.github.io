@@ -303,7 +303,7 @@ Solidity, metamask, Hardhat, Ether.js, JS, React.js, Infura etc.
 
 
 
-# PFP NFT Collection Minting DApp - [view](https://meharab.github.io/front-coll/)
+# PFP NFT Collection Minting DApp - [view](https://nft-starter-project.meharab.repl.co/)
 This dapp is built on the Ethereum network. In this dapp user can mint unique PFP NFT for 0.01 ether. This Dapp is absolutely decentralized because the metadata is also stored in decentralized storage like IPFS using Pinata api. There are only 100 unique ERC721 nft available.
 
 ### Tech Stack: 
