@@ -152,6 +152,23 @@ Solidity, OpenZeppelin, Hardhat, Ether.js, JS, React.js, Alchemy etc.
 
 
 
+# Polygon Name Service (PNS) DApp - [view](https://poly-domain-service.vercel.app/)
+This dapp is built on the Polygon network. In this dapp users can mint their desirable name with ".dope" extension with additional information. Those minted NFTs can be bought/sold/create on open marketplace e.g. opensea, rarable etc.
+
+### Tech Stack: 
+Solidity, OpenZeppelin, Hardhat, Ether.js, JS, React.js, Alchemy etc.
+
+### Features:
+* Users can mint a name as NFT.
+* Users can update on-chain additional information.
+* Users can buy/sell/transfer their NFTs on open marketplace.
+
+
+
+
+
+
+
 # Flat Earth DAO DApp - [view](https://flat-earth-dao.vercel.app/)
 This dapp is built on the Ethereum network. In this dapp user can First mint ERC-1155 NFT card to access to the DAO, then you will be airdroped some governance token sothat you can vote on existing proposal.
 
